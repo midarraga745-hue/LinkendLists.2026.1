@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LinkedLists.Backend/LinkedLists.Backend.csproj" />
+  <Project Path="LinkedLists.Frontend/LinkedLists.Frontend.csproj" />
+</Solution>

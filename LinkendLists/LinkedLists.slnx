@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LinkendLists.Backend/LinkedList.Backend.csproj" Id="32e6a76d-426e-4654-8fc8-8eccf07d8ac0" />
+  <Project Path="LinkendLists.Frontend/LinkedList.Frontend.csproj" Id="dfc46b88-d7f5-4db0-9293-b396d581bf71" />
+</Solution>
