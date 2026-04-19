@@ -9,7 +9,7 @@ do
     switch (option)
     {
         case "1":
-            Console.Write("Digite el elemento a adicionar: ");
+            Console.Write("Digit el elemento a adicionar: ");
             var element = Console.ReadLine() ?? string.Empty;
             list.Add(element);
             Console.WriteLine($"Elemento '{element}' adicionado.");
